@@ -1,0 +1,19 @@
+{
+  "name": "nodefullblown",
+  "version": "1.0.0",
+  "description": "Full blown node app",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "fullblown"
+  ],
+  "author": "Bewton Maina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
